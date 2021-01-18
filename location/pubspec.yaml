@@ -27,12 +27,12 @@ dependencies:
   location_platform_interface:
     git:
       url: https://github.com/la-haus/flutter-library-flutterlocation.git
-      ref: v3.1.0-lahaus-forced-release
+      ref: release-candidate/la-haus-forced
       path: location_platform_interface
   location_web:
     git:
       url: https://github.com/la-haus/flutter-library-flutterlocation.git
-      ref: v3.1.0-lahaus-forced-release
+      ref: release-candidate/la-haus-forced
       path: location_web
   meta: ^1.0.5
 
